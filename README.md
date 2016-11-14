@@ -1,4 +1,4 @@
-# Sonos-API-C-
+# Sonos-API-C#-
 Sonos API for controlling a Sonos device that's running within the same network.
 
 ### PlaySonos()
